@@ -24,10 +24,11 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'ML in Chemistry and Materials 2024 by Nikita Fedik | fork of  ⚗ alembic-jekyll-theme'
+title: 'Machine Learning in Chemistry and Materials'
+short_name: 'MLChemMat2024'
 description: ''
 permalink: pretty
-#logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+author: Nikita Fedik
 
 # Pagination
 paginate: 5
@@ -48,18 +49,18 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
-- title: Back to top
-  url: "#top"
+- title: Made by Nikita Fedik
+  url: "https://nikitafedik.github.io/"
 
 # Collections
 collections:
   posts:
     title: Posts
     output: true
-    description: "My thoughts and ideas"
+    description: ""
     feature_text: |
       Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    feature_image: ""
 
 # Collection settings
 defaults:
