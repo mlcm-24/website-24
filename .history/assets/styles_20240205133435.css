@@ -534,8 +534,7 @@ a:hover, a:active, a:focus {
   font-weight: 700;
 }
 .typeset h1, .typeset .alpha {
-  color: #05bf85;
-  background-color:rgba(255, 255, 255, 0.5);
+  color: #bf0505;
   line-height: 3rem;
   font-weight: bold;
   font-size: 2.3333333333rem;
