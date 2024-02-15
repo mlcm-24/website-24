@@ -48,7 +48,11 @@ Materials Modeling and Machine Learning
 <br>
 **Volker	Deringer**     
 *University of Oxford*    
-Data-driven interatomic potentials for inorganic materials chemistry   
+Data-driven interatomic potentials for inorganic materials chemistry      
+<br>
+**Mario	Barbatti**         
+*Aix Marseille University, CNRS, ICR*        
+Machine Learning Nonadiabatic Dynamics        
 <br>
 
 {: .right-column }
@@ -66,6 +70,15 @@ Explaining Performance of Physics-Informed Machine-Learned Interatomic Models
 <br>
 **Alexandre Tkatchenko**    
 *University of Luxembourg*     
-TBD    
+TBD     
+<br>
+**Reinhard	Maurer**     
+*University of Warwick*       
+Machine learning of electronic structure for molecular design     
+<br>
+**Koczor-Benda**     
+*University of Warwick*     
+Machine learning-based molecular design for plasmonic nanosystems       
+<br>   
 </div>
 
