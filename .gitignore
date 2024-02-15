@@ -2,5 +2,10 @@
 _site/
 
 _config.yml
+<<<<<<< HEAD
 Gemfile
 Gemfile.lock
+=======
+speakers.md
+
+>>>>>>> 6772748bfb8420c56dcd5491bdd092546001b5f5
