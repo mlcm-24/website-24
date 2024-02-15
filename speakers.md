@@ -63,13 +63,9 @@ TBD
 **Rebecca Lindsey**    
 *University of Michigan, Ann Arbor*    
 Explaining Performance of Physics-Informed Machine-Learned Interatomic Models     
-<<<<<<< HEAD
 <br>
 **Alexandre Tkatchenko**    
 *University of Luxembourg*     
 TBD    
-=======
-
->>>>>>> 6772748bfb8420c56dcd5491bdd092546001b5f5
 </div>
 
