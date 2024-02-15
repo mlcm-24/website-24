@@ -2,5 +2,5 @@
 _site/
 
 _config.yml
-Gemfile
-Gemfile.lock
+
+_config.yml
