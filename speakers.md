@@ -54,6 +54,14 @@ Data-driven interatomic potentials for inorganic materials chemistry
 *Aix Marseille University, CNRS, ICR*        
 Machine Learning Nonadiabatic Dynamics        
 <br>
+**Roberto	Car**       
+*Princeton University*     
+Deep potential models for equilibrium and near equilibrium processes      
+<br>
+**Pavlo Dral**      
+*Xiamen University*    
+From fast potentials for dynamics to learning dynamics    
+<br> 
 
 {: .right-column }
 **Olexandr Isayev**  
@@ -70,15 +78,17 @@ Explaining Performance of Physics-Informed Machine-Learned Interatomic Models
 <br>
 **Alexandre Tkatchenko**    
 *University of Luxembourg*     
-TBD     
+Navigating Chemical Compound Space with Machine Learning        
 <br>
 **Reinhard	Maurer**     
 *University of Warwick*       
 Machine learning of electronic structure for molecular design     
 <br>
-**Koczor-Benda**     
+**Zsuzsanna Koczor-Benda**     
 *University of Warwick*     
 Machine learning-based molecular design for plasmonic nanosystems       
 <br>   
+
+
 </div>
 
