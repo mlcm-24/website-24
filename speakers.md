@@ -21,7 +21,7 @@ title: List of confirmed speakers
     line-height: 160%; 
     border-radius: 0px; 
     padding: 10px;
-    background-color: #e8dddc;
+    background-color: #e8e8e8;
     margin-bottom: 0px;
   }
 
@@ -109,6 +109,11 @@ title: List of confirmed speakers
 - {:.item_l1} **Chiho Kim**    
     *GeorgiaTech*      
     TBD
+    <br>
+- {:.item_l2} **Jing Huang**    
+    *Westlake University*      
+    DP/MM: a hybrid force field model for zinc-protein dynamics
+    <br>
 {: style="list-style-type: none;"}
 
 
