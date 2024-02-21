@@ -1,5 +1,5 @@
 # Set theme
-remote_theme: daviddarnes/alembic@main
+theme: alembic-jekyll-theme
 
 # File excludes
 exclude:
@@ -17,13 +17,12 @@ plugins:
 - jekyll-feed
 - jekyll-commonmark
 - jekyll-include-cache
-- jekyll-remote-theme
 - jemoji
 
 # Site settings
-url: 'mlcm-24.github.io'
+url: 'https://mydomain.com'
 baseurl: ''
-title: 'ML in Chemistry and Materials 2024'
+title: 'ML in Chemistry and Materials 2024 by Nikita Fedik | fork of  ⚗ alembic-jekyll-theme'
 description: ''
 permalink: pretty
 #logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"

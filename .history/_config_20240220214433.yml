@@ -21,9 +21,9 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'mlcm-24.github.io'
+url: 'https://mydomain.com'
 baseurl: ''
-title: 'ML in Chemistry and Materials 2024'
+title: 'ML in Chemistry and Materials 2024 by Nikita Fedik | fork of  ⚗ alembic-jekyll-theme'
 description: ''
 permalink: pretty
 #logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
