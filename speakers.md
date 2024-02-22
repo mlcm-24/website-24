@@ -26,93 +26,79 @@ title: List of confirmed speakers
   }
 
 </style>
+{: style="text-align: center; background-color: #6cc58d4d"}
+**24 confirmed speakers**
 
-- {:.item_l1} **Nong Artrith**  
-   *Debye Institute for Nanomaterials Science*  
+- {:.item_l1} **Nong Artrith**  | *Debye Institute for Nanomaterials Science*  
    ML & XAS for Amorphous Materials
    <br> 
-- {:.item_l2} **Y	Z**  
-   *University of Michigan*  
+- {:.item_l2} **Y	Z**  | *University of Michigan*  
    Unusual Dynamics of Tetrahedral Liquids Caused by the Competition between Dynamic Heterogeneity and Structural Heterogeneity
    <br>    
-- {:.item_l1} **Wissam Saidi**  
-   *NETL*  
+- {:.item_l1} **Wissam Saidi**  | *NETL*  
    Materials Modeling and Machine Learning
    <br>
-- {:.item_l2} **Volker Deringer**      
-   *University of Oxford*     
+- {:.item_l2} **Volker Deringer**      | *University of Oxford*     
    Data-driven interatomic potentials for inorganic materials chemistry
    <br>
-- {:.item_l1} **Mario Barbatti**    
-   *Aix Marseille University, CNRS, ICR*     
+- {:.item_l1} **Mario Barbatti**    | *Aix Marseille University, CNRS, ICR*     
    Machine Learning Nonadiabatic Dynamics
    <br>
-- {:.item_l2} **Roberto Car**   
-  *Princeton University*  
+- {:.item_l2} **Roberto Car**   | *Princeton University*  
    Deep potential models for equilibrium and near equilibrium processes
    <br>
-- {:.item_l1} **Pavlo Dral** 
-   *Xiamen University*     
+- {:.item_l1} **Pavlo Dral**   | *Xiamen University*     
    From fast potentials for dynamics to learning dynamics
    <br> 
-- {:.item_l2} **Olexandr Isayev**   
-   *Carnegie Mellon University*  
+- {:.item_l2} **Olexandr Isayev**   | *Carnegie Mellon University*  
    AIMNet2: Robust neural network potential for organic, element-organic
    <br>
-- {:.item_l1} **Matthew Carbone**   
-   *Brookhaven National Laboratory*    
+- {:.item_l1} **Matthew Carbone**   | *Brookhaven National Laboratory*    
    TBD
    <br>
-- {:.item_l2} **Rebecca Lindsey**   
-    *University of Michigan*   
+- {:.item_l2} **Rebecca Lindsey**   | *University of Michigan*   
     Explaining Performance of Physics-Informed Machine-Learned Interatomic Models
     <br>
-- {:.item_l1} **Alexandre Tkatchenko**   
-    *University of Luxembourg*  
+- {:.item_l1} **Alexandre Tkatchenko**   | *University of Luxembourg*  
     Navigating Chemical Compound Space with Machine Learning
     <br>
-- {:.item_l2} **Reinhard Maurer**   
-    *University of Warwick*     
+- {:.item_l2} **Reinhard Maurer**   | *University of Warwick*     
     Machine learning of electronic structure for molecular design
     <br>
-- {:.item_l1} **Zsuzsanna Koczor-Benda**    
-    *University of Warwick*    
+- {:.item_l1} **Zsuzsanna Koczor-Benda**    | *University of Warwick*    
     Machine learning-based molecular design for plasmonic nanosystems
     <br>
-- {:.item_l2} **Oleg Prezhdo**    
-    *University of Southern California*  
+- {:.item_l2} **Oleg Prezhdo**    | *University of Southern California*  
     Nonadiabatic Molecular Dynamics with Machine Learning
     <br>
-- {:.item_l1} **Julien Lam**   
-    *CNRS*      
+- {:.item_l1} **Julien Lam**   | *CNRS*      
     Exploiting constrained linear models for machine-learning interaction potentials
     <br>
-- {:.item_l2} **David Yaron**    
-    *Carnegie Mellon University*    
+- {:.item_l2} **David Yaron**    | *Carnegie Mellon University*    
     Quantum chemical Hamiltonians as flexible and interpretable model forms for machine learning
     <br>
-- {:.item_l1} **Puck van Gerwen**   
-    *EPFL*  
+- {:.item_l1} **Puck van Gerwen**   | *EPFL*  
     EquiReact: Equivariant Neural Networks for Chemical Reactions
     <br>
-- {:.item_l2} **Rohit Goswami**    
-    *University of Iceland*   
+- {:.item_l2} **Rohit Goswami**    | *University of Iceland*   
     Throwaway Gaussian Processes for Saddle Searches
     <br>
-- {:.item_l1} **Justin Smith**   
-    *NVIDIA*      
+- {:.item_l1} **Justin Smith**   | *NVIDIA*      
     TBD
     <br>
-- {:.item_l2} **Karel Berka**    
-    *Palacky University Olomouc*      
+- {:.item_l2} **Karel Berka**    | *Palacky University Olomouc*      
     MolMeDB - free database of molecules on membranes
-- {:.item_l1} **Chiho Kim**    
-    *GeorgiaTech*      
+- {:.item_l1} **Chiho Kim**    | *GeorgiaTech*      
     TBD
     <br>
-- {:.item_l2} **Jing Huang**    
-    *Westlake University*      
+- {:.item_l2} **Jing Huang**    | *Westlake University*      
     DP/MM: a hybrid force field model for zinc-protein dynamics
+    <br>
+- {:.item_l1} **Aditya Nandy**    | *UCLA*      
+    Leveraging Community Knowledge to Forge a Path Forward for Transition Metal Complex and Metal-Organic Framework Design
+    <br>
+- {:.item_l2} **Rose Cersonsky**    | *University of Wisconsin–Madison*      
+    TBD
     <br>
 {: style="list-style-type: none;"}
 
