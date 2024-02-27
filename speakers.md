@@ -27,7 +27,7 @@ title: List of confirmed speakers
 
 </style>
 {: style="text-align: center; background-color: #6cc58d4d"}
-**36 confirmed speakers**
+**39 confirmed speakers**
 
 - {:.item_l1} **Nong Artrith**  | *Debye Institute for Nanomaterials Science*  
    ML & XAS for Amorphous Materials
@@ -136,6 +136,15 @@ title: List of confirmed speakers
  - {:.item_l2} **Noa	Marom** | *Carnegie Mellon University*      
     Applications of Machine Learning in First Principles Materials Simulations
     <br>  
+- {:.item_l1} **Bakhtiyor	Rasulev**    | *North Dakota State University*      
+    Application of Mixture-type Descriptors in Machine Learning Modeling of Materials
+    <br>   
+ - {:.item_l2} **Dmitry Zubarev** | *IBM Research*      
+    TBD
+    <br> 
+- {:.item_l1} **Joshua Rackers**    | *Prescient Design / Genentech*      
+    TBD
+    <br>   
 {: style="list-style-type: none;"}
 
 
