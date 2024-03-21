@@ -27,7 +27,10 @@ title: List of confirmed speakers
 
 </style>
 {: style="text-align: center; background-color: #6cc58d4d"}
-**39 confirmed speakers**
+**52 confirmed speakers**
+
+{: style="text-align: center; background-color: white"}
+KEY SPEAKERS
 
 - {:.item_l1} **Alan	Aspuru-Guzik**  | *University of Toronto*  
    TBD
@@ -38,7 +41,39 @@ title: List of confirmed speakers
 - {:.item_l1} **Gábor Csányi**  | *University of Cambridge*  
    Foundation models for materials chemistry
    <br>
-- {:.item_l2} **Jason	Hattrick-Simpers**  | *University of Toronto*  
+- {:.item_l2} **Kieron	Burke**  | *University of California, Irvine*  
+   Machine Learning Density Functionals
+   <br> 
+- {:.item_l1} **Anatole	von Lilienfeld**  | *University Of Toronto/Vector Institute*  
+   Quantum Machine Learning
+   <br>
+- {:.item_l2} **Roberto Car**   | *Princeton University*  
+   Deep potential models for equilibrium and near equilibrium processes
+   <br>
+- {:.item_l2} **Oleg Prezhdo**    | *University of Southern California*  
+    Nonadiabatic Molecular Dynamics with Machine Learning
+    <br>   
+- {:.item_l1} **Alexandre Tkatchenko**   | *University of Luxembourg*  
+    Navigating Chemical Compound Space with Machine Learning
+    <br>
+- {:.item_l2} **Olexandr Isayev**   | *Carnegie Mellon University*  
+   AIMNet2: Robust neural network potential for organic, element-organic
+   <br>
+- {:.item_l1} **Mario Barbatti**    | *Aix Marseille University, CNRS, ICR*     
+   Machine Learning Nonadiabatic Dynamics
+   <br>
+{: style="list-style-type: none;"}
+
+{: style="text-align: center; background-color: white"}
+INVITED \| CONTRIBUTED
+
+- {:.item_l2} **Fang	Liu**  | *Emory University*  
+   Machine learning aided chemical discovery in the solution phase
+   <br> 
+- {:.item_l1} **Arthur	Mar**  | *University of Alberta*  
+   Discovery of Inorganic Solids with Desired Structure Motifs Guided by Machine Learning
+   <br>
+- {:.item_l2} **Jason Hattrick-Simpers**  | *University of Toronto*  
    Tutorial on the use of LLMs in Science
    <br> 
 - {:.item_l1} **Nong Artrith**  | *Debye Institute for Nanomaterials Science*  
@@ -53,35 +88,17 @@ title: List of confirmed speakers
 - {:.item_l2} **Volker Deringer**      | *University of Oxford*     
    Data-driven interatomic potentials for inorganic materials chemistry
    <br>
-- {:.item_l1} **Mario Barbatti**    | *Aix Marseille University, CNRS, ICR*     
-   Machine Learning Nonadiabatic Dynamics
-   <br>
-- {:.item_l2} **Roberto Car**   | *Princeton University*  
-   Deep potential models for equilibrium and near equilibrium processes
-   <br>
 - {:.item_l1} **Pavlo Dral**   | *Xiamen University*     
    From fast potentials for dynamics to learning dynamics
    <br> 
-- {:.item_l2} **Olexandr Isayev**   | *Carnegie Mellon University*  
-   AIMNet2: Robust neural network potential for organic, element-organic
-   <br>
+- {:.item_l2} **Reinhard Maurer**   | *University of Warwick*     
+    Machine learning of electronic structure for molecular design
+    <br>
 - {:.item_l1} **Matthew Carbone**   | *Brookhaven National Laboratory*    
    TBD
    <br>
 - {:.item_l2} **Rebecca Lindsey**   | *University of Michigan*   
     Explaining Performance of Physics-Informed Machine-Learned Interatomic Models
-    <br>
-- {:.item_l1} **Alexandre Tkatchenko**   | *University of Luxembourg*  
-    Navigating Chemical Compound Space with Machine Learning
-    <br>
-- {:.item_l2} **Reinhard Maurer**   | *University of Warwick*     
-    Machine learning of electronic structure for molecular design
-    <br>
-- {:.item_l1} **Zsuzsanna Koczor-Benda**    | *University of Warwick*    
-    Machine learning-based molecular design for plasmonic nanosystems
-    <br>
-- {:.item_l2} **Oleg Prezhdo**    | *University of Southern California*  
-    Nonadiabatic Molecular Dynamics with Machine Learning
     <br>
 - {:.item_l1} **Julien Lam**   | *CNRS*      
     Exploiting constrained linear models for machine-learning interaction potentials
@@ -152,14 +169,29 @@ title: List of confirmed speakers
     Application of Mixture-type Descriptors in Machine Learning Modeling of Materials
     <br>   
  - {:.item_l2} **Dmitry Zubarev** | *IBM Research*      
-    TBD
+    Foundational Models for Chemical Discovery
     <br> 
 - {:.item_l1} **Joshua Rackers**    | *Prescient Design / Genentech*      
-    TBD
+    Building Physics into AI for Drug Discovery
     <br>   
  - {:.item_l2} **Maria	Chan** | *Argonne National Laboratory*      
     Theory-informed ML for Microscopy, Spectroscopy, and Scattering
     <br> 
+- {:.item_l1} **Aurora	Clark**    | *University of Utah*      
+    ML in Chemical Separations - Connecting Reaction Stoichiometry with Solution Structure
+    <br>  
+ - {:.item_l2} **Daniel	Schwalbe-Koda** | *UCLA*      
+    Unifying Views on the Extrapolation Power of Machine Learning Potentials and Materials Thermodynamics
+    <br>
+- {:.item_l1} **Richard	Hennig**    | *University of Florida*      
+    Accelerating Materials Discovery Through Deep Learning and Ultra-Fast Potentials
+    <br>  
+ - {:.item_l2} **Avanish	Mishra** | *LANL*      
+    Learning from ‘Small’ Data Using Physics-Based Descriptors
+    <br>
+- {:.item_l1} **Zsuzsanna Koczor-Benda**    | *University of Warwick*    
+    Machine learning-based molecular design for plasmonic nanosystems
+    <br>
 {: style="list-style-type: none;"}
 
 
