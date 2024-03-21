@@ -50,16 +50,16 @@ KEY SPEAKERS
 - {:.item_l2} **Roberto Car**   | *Princeton University*  
    Deep potential models for equilibrium and near equilibrium processes
    <br>
-- {:.item_l2} **Oleg Prezhdo**    | *University of Southern California*  
+- {:.item_l1} **Oleg Prezhdo**    | *University of Southern California*  
     Nonadiabatic Molecular Dynamics with Machine Learning
     <br>   
-- {:.item_l1} **Alexandre Tkatchenko**   | *University of Luxembourg*  
+- {:.item_l2} **Alexandre Tkatchenko**   | *University of Luxembourg*  
     Navigating Chemical Compound Space with Machine Learning
     <br>
-- {:.item_l2} **Olexandr Isayev**   | *Carnegie Mellon University*  
+- {:.item_l1} **Olexandr Isayev**   | *Carnegie Mellon University*  
    AIMNet2: Robust neural network potential for organic, element-organic
    <br>
-- {:.item_l1} **Mario Barbatti**    | *Aix Marseille University, CNRS, ICR*     
+- {:.item_l2} **Mario Barbatti**    | *Aix Marseille University, CNRS, ICR*     
    Machine Learning Nonadiabatic Dynamics
    <br>
 {: style="list-style-type: none;"}
