@@ -1,6 +1,6 @@
 ---
 title: ''
-feature_image: /assets/1.jpg
+feature_image: /mlcm-24/assets/1.jpg
 
 feature_text: |
   # Machine Learning in Chemical and Materials Sciences 2024
