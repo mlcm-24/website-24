@@ -22,7 +22,7 @@ plugins:
 
 # Site settings
 url: 'mlcm-24.github.io'
-baseurl: ''
+baseurl: "/mlcm-24"
 title: 'ML in Chemistry and Materials 2024'
 description: ''
 permalink: pretty
